@@ -16,5 +16,7 @@ const config: Config = {
     },
   },
   plugins: [],
+  // ! This is for forcing dark mode
+  // darkMode: "class",
 };
 export default config;
